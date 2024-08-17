@@ -1,0 +1,62 @@
+body {
+    background-color: #2d2d30;
+}
+
+.introduction {
+    text-align: center;
+    background-color: #a9cef4;
+    border-color: #a9cef4;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.projects {
+   font-size: 35px;
+   height: 100px;
+   width: 100px;
+   margin-top: 60px;
+
+   position: absolute;
+
+  top: -10px;
+   left: 150px;
+}
+
+.bio {
+    font-size: 20px;
+    width: 300px;
+    height: 100px;
+    margin-left: 240px;
+    padding: auto;
+    
+
+    positon: relative;
+
+    top: 30px;
+    color: white;
+}
+
+fieldset {
+    border: none;
+    padding: 0;
+}
+
+.bar-1 {
+    background-color: #a9cef4;
+}
+
+.frame {
+border: 50px solid #36494e;
+  width: 500px;
+  padding: 50px;
+  margin: 20px auto;
+}
+
+.skills {
+    margin-bottom: 60px;
+    margin-left: 800px;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    bottom: 120px;
+}
